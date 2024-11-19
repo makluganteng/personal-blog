@@ -1,5 +1,5 @@
 +++
-title = "lactose intolerant"
+title = "Vincent' Blogs"
 +++
 
 <div class="section">
