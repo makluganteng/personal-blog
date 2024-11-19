@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 0xVincent Blogs</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on 0xVincent Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2024 12:45:38 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things i learned in Devcon &amp; ETH Global</title>
+      <link>http://localhost:1313/things-i-learned-in-devcon-eth-global/</link>
+      <pubDate>Tue, 19 Nov 2024 12:45:38 +0700</pubDate>
+      <guid>http://localhost:1313/things-i-learned-in-devcon-eth-global/</guid>
+      <description>&lt;p&gt;So i went to Devcon and ETH Global Bangkok at the same time since at the end of devcon the hackathon started on the end of the hackathon. So on that trip i had i learned alot about what is going on with the crypto space and what the market is going to be in terms of tech.&lt;/p&gt;&#xA;&lt;p&gt;During devcon i saw more and more real life use cases of crypto tech coming together like social goods and tech that bring people together. It might gave not make revenue or make money but in my opinion thats just what makes crypto interesting we get to meet people and hangout and learn from the great mind of the world. I didnt do much on Devcon mostly just networking and deciding what to build for ETH Global. I found that in devcon we also have a whitepaper session where people come together to read the whitepaper and learn about it. Thi allows people to read and exchange ideas on what they think about the paper.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

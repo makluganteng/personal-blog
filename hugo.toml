@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = '0xVincent Blogs'
 theme = 'hugo-bearblog'
 
+[permalinks]
+blogs = "/:slug/"
+
 [params]
     description = '0xVincent Blogs'
     author = '0xVincent'
+
+[markup.goldmark.renderer]
+unsafe = true # Allow HTML in md files

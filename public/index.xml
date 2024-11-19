@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lactose intolerant on 0xVincent Blogs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in lactose intolerant on 0xVincent Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2024 12:45:38 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things I Learned in Devcon &amp; ETH Global</title>
+      <link>http://localhost:1313/blog/things-i-learned-in-devcon--eth-global/</link>
+      <pubDate>Tue, 19 Nov 2024 12:45:38 +0700</pubDate>
+      <guid>http://localhost:1313/blog/things-i-learned-in-devcon--eth-global/</guid>
+      <description>&lt;p&gt;So I went to Devcon and ETH Global Bangkok at the same time since at the end of Devcon the hackathon started on the end of the hackathon. So on that trip I had I learned a lot about what is going on with the crypto space and what the market is going to be in terms of tech.&lt;/p&gt;&#xA;&lt;h2 id=&#34;devcon-experience&#34;&gt;Devcon Experience&lt;/h2&gt;&#xA;&lt;p&gt;During Devcon I saw more and more real life use cases of crypto tech coming together like social goods and tech that bring people together. It might have not make revenue or make money but in my opinion that&amp;rsquo;s just what makes crypto interesting - we get to meet people and hangout and learn from the great mind of the world. I didn&amp;rsquo;t do much on Devcon, mostly just networking and deciding what to build for ETH Global. I found that in Devcon we also have a whitepaper session where people come together to read the whitepaper and learn about it. This allows people to read and exchange ideas on what they think about the paper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;div class=&#34;section&#34;&gt;&#xA;&lt;div class=&#34;section-title&#34;&gt;Projects&lt;/div&gt;&#xA;&lt;p&gt;Im currently working at &lt;a href=&#34;https://aevo.xyz&#34;&gt;Aevo&lt;/a&gt; as a full stack engineer. but i also do some side projects.&#xA;a few projects are open source and some are not. i mostly do them for fun or for learning new things. i made some toolings for the community and some for myself.&lt;/p&gt;&#xA;&lt;p&gt;Here are some of the projects i have worked on or currently working on.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://predpump.wtf&#34;&gt;Predpump&lt;/a&gt; A Pump &amp;amp; Predict Pump fun prediction market. (ETH Global Bangkok 2024)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tiadaxyz/zkDompet&#34;&gt;ZKDompet&lt;/a&gt; A Zero Knowledege Proof Multisig Wallet (1st place)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/Footy-Stars&#34;&gt;Footy-Star&lt;/a&gt; A Onchain Football Manager with Provable Simulation ZKML (Finalist)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ML-Village&#34;&gt;ML-Village&lt;/a&gt; The First ZKML Proving Service using STARK (1st place)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
