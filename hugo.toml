@@ -1,4 +1,4 @@
-baseURL = 'https://0xvincent.xyz/'
+baseURL = 'https://0xvincent.dev/'
 languageCode = 'en-us'
 title = '0xVincent Blogs'
 theme = 'hugo-bearblog'
