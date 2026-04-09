@@ -1,18 +1,22 @@
 +++
-title = "Vincent' Blogs"
+title = "0xVincent"
 +++
 
-<div class="section">
-<div class="section-title">About</div>
-
-Hi, I'm Vincent or u can call me V.O.T. I'm a full stack engineer and i just like alot of things. So here is the place where i share my thoughts and projects. I will mostly start writing my journey on the stuff im learning and building. So hope u guys enjoy reading it.
-
+<div class="hero">
+<span class="hero-badge">● full-stack engineer</span>
+<h1>Hey, I'm Vincent.</h1>
+<p>Or you can call me <strong>V.O.T.</strong> I build full-stack — mostly crypto, trading systems, AI agents, and whatever else catches my eye. Currently shipping Terminal at N1. This is where I write about what I'm learning and building.</p>
 </div>
 
 <div class="section">
-<div class="section-title">Socials</div>
+<div class="section-title">about</div>
+<p>I like fast iteration, systems that break in interesting ways, and tools sharp enough to cut yourself on. Most of my side projects live at the intersection of DeFi, market making, and AI agents — go check the <a href="/projects/">projects</a> page to see what I've been shipping.</p>
+</div>
 
-- x: [@0xvincent.eth](https://x.com/0xvincent_eth)
-- github: [V.O.T](https://github.com/makluganteng)
-
+<div class="section">
+<div class="section-title">elsewhere</div>
+<ul class="socials-list">
+<li><a href="https://x.com/0xvincent_eth">x / @0xvincent_eth</a></li>
+<li><a href="https://github.com/makluganteng">github / makluganteng</a></li>
+</ul>
 </div>
